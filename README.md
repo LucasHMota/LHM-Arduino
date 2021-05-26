@@ -20,11 +20,11 @@
   
   <h3>Semáforo</h3>
     <ul>
-    1x Arduino Mega + Cabo USB
-    1x Protoboard
-    2x Sensor Ultrassônico HC-SR04
-    1x Módulo Semáforo LED
-    1x Buzzer 5V
-    16x JumperCriar um sistema de semáforo inteligente com sensor ultrassônico, também adaptado para deficientes visuais.
+      <li>1x Arduino Mega + Cabo USB</li>
+      <li>1x Protoboard</li>
+      <li>2x Sensores Ultrassônicos HC-SR04</li>
+      <li>1x Módulo Semáforo LED</li>
+      <li>1x Buzzer 5V</li>
+      <li>16x Jumpers</li>
   </ul>
 </p>
