@@ -34,5 +34,5 @@
 
   Por favor, ao utilizar algum componente do projeto, dar crédito aos autores, assim como estes o fizeram dentro dos códigos que adaptaram. Obrigado!
 
-  Please, when using any of the components, give credits to the autors. Thank you!
+  Please, when using any of the components, give credits to the autors, as we did within the code comment lines. Thank you!
 </p>
