@@ -26,7 +26,7 @@
 				</div>
 				<div class="image phone"><div class="inner"><img src="images/arduino.jpg" alt="" /></div></div>
 				<?php
-							/*require("phplot-6.1.0/phplot.php");
+							require("phplot-6.1.0/phplot.php");
 							try
 							{
 								$g=new PHPlot(800,600);
@@ -59,7 +59,7 @@
 							catch(PDOException $erro)
 							{
 								echo "Houve um erro na geração do gráfico";
-							}*/	
+							}	
 
 				?>
 			</header>
