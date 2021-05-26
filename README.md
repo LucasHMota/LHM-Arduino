@@ -28,3 +28,11 @@
       <li>16x Jumpers</li>
   </ul>
 </p>
+
+<p>
+  Copyright: Lucas Henrique Mota
+
+  Por favor, ao utilizar algum componente do projeto, dar crédito aos autores, assim como estes o fizeram dentro dos códigos que adaptaram. Obrigado!
+
+  Please, when using any of the components, give credits to the autors. Thank you!
+</p>
