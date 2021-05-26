@@ -1,3 +1,3 @@
 # LHM-Arduino
-Projeto de semáforo inteligente feito com Arduino \n
-Smart traffic light developed using Arduino
+<p> Projeto de semáforo inteligente feito com Arduino </p>
+<p> Smart traffic light developed using Arduino </p>
